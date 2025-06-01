@@ -2,3 +2,8 @@ name: SimpleModeration
 version: '${project.version}'
 main: de.philcraft.simplemoderation.SimpleModeration
 api-version: '1.21'
+
+commands:
+  simplemoderation:
+    permission: simplemoderation.use
+    permission-message: "No Permission!"

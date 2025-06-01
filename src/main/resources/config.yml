@@ -1,0 +1,5 @@
+blockedWords:
+  - bitch # ENTER YOUR OWN
+  - fuck # ENTER YOUR OWN
+
+cantDoThisMessage: "[SimpleModeration] You cant use this word!"
