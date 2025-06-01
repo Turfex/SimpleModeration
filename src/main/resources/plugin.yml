@@ -1,0 +1,4 @@
+name: SimpleModeration
+version: '${project.version}'
+main: de.philcraft.simplemoderation.SimpleModeration
+api-version: '1.21'
